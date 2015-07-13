@@ -1,0 +1,13 @@
+TraceFileGenerator v-0.00
+Number of iteration: 1000000
+Number of threads: 10
+Number of classes: 300
+Maximum rootset size: 50
+Maximum payload size: 100
+Object's longevity: 10000
+Probability of escaped object: 20
+Ratio of allocation: 1
+Ration of read access: 70
+Ratio of store access: 29
+Ratio of object->object reference in store access: 90
+Ratio of class->object reference in store access: 10
