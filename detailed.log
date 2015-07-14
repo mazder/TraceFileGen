@@ -7,7 +7,7 @@ Maximum payload size: 64
 Maximum reference slot in object&class: 10
 Object's longevity: 10000
 Probability of escaped object: 20
-Ratio of allocation: 2
+Ratio of allocation: 20
 Ration of read access: 80
 Ratio of store access: 10
 Ratio of static field access: 30
